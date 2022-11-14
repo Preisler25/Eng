@@ -1,30 +1,20 @@
-unbearably:elviselhetetlenül
-fairness:tisztesség, igazságos
-tactful:taktikus, tapintatos
-bewildered:zavarodott
-devastated:feldúlt 
-petrified:dermedt
-thrilled:izgatott 
-furious:dühös, őrjöngő
-exhausted:kimerült 
-elated:feldobott, felvidult
-equivalent:egyenértékű 
-frightened:ijedt, rémült
-quotation:idézet
-blush:elpirul
-be ashamed of:szégyelni 
-frown:homlokrácolni
-tremble:remeg,reszket
-shrug sy's shoulder:megvonja a vállát
-stutter:dadog
-yell:kiabál
-conceited:beképzelt, öntelt
-conscientious: lelkiismeretes
-gullible:hiszékeny
-vain:hiu
-self-conscious:öntudatos
-self-centred:egoista
-unscrupulous:lelkiismeretlen,gátlástalan
-impartial:pártatlan
-absent-minded:feledékeny, szétszórt
-narrow-minded:szűklátókörű
+procrastinator:halogató
+perfectionist:maximalista
+put off:elhalasztani
+get sidetracked:mellékvágányra kerül, elterelődik a figyelme
+horrendously:borzasztóan
+overwhelmed:túlterhelve
+vital:fontos, létfontosságú
+dump:kidobni
+reminiscing:visszaemlékezni
+glance:pillantás
+wretched:romlott, nyamvatt
+compile:szerkeszteni
+whooshing:suhanó
+awe:félelemmel vegyes tisztelet
+touch-type:vakon írás
+sketch:vázlat
+crumple:összegyűrni
+gloomy:borús hangulatú
+flaw:hiba
+cope:együttműködni
