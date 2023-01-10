@@ -1,20 +1,16 @@
-procrastinator:halogató
-perfectionist:maximalista
-put off:elhalasztani
-get sidetracked:mellékvágányra kerül, elterelődik a figyelme
-horrendously:borzasztóan
-overwhelmed:túlterhelve
-vital:fontos, létfontosságú
-dump:kidobni
-reminiscing:visszaemlékezni
-glance:pillantás
-wretched:romlott, nyamvatt
-compile:szerkeszteni
-whooshing:suhanó
-awe:félelemmel vegyes tisztelet
-touch-type:vakon írás
-sketch:vázlat
-crumple:összegyűrni
-gloomy:borús hangulatú
-flaw:hiba
-cope:együttműködni
+bunk beds:emeletes ágyak
+swivel chair:forgószék, irodai szék
+roller blind:redőny, roló
+windowsill:ablakpárkány
+stool:sámli
+glass-fronted bookcase:vitrin, üvegfalú könyves szekrény
+Venetian blinds:reluxák, árnyékolók
+chest of drawers:komód, fiókos szekrény
+knick-knacks:csecsebecsék, apróságok
+rocking chair:hintaszék
+converted loft:tetőtéri lakás
+do it up:felújítás
+slanted ceiling:ferde mennyezet
+cottage:nyaraló
+bungalow:emelet nélküli családiház
+studio flat:egyszobás lakás, garzon
