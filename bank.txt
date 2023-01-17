@@ -1,16 +1,15 @@
-bunk beds:emeletes ágyak
-swivel chair:forgószék, irodai szék
-roller blind:redőny, roló
-windowsill:ablakpárkány
-stool:sámli
-glass-fronted bookcase:vitrin, üvegfalú könyves szekrény
-Venetian blinds:reluxák, árnyékolók
-chest of drawers:komód, fiókos szekrény
-knick-knacks:csecsebecsék, apróságok
-rocking chair:hintaszék
-converted loft:tetőtéri lakás
-do it up:felújítás
-slanted ceiling:ferde mennyezet
-cottage:nyaraló
-bungalow:emelet nélküli családiház
-studio flat:egyszobás lakás, garzon
+estate:ingatlan
+suburb:kerület
+outskirts:kulváros
+residential area:lakoterület
+run-down:lepukkant
+tile:csempe
+paper:tapétázni
+install:applikál
+do it up:felujit
+leaking tap:csöpögő csap
+mortgage:banki kölcsöny
+tenant:berlő
+landlord:főbérlő
+evict:kilakoltatni
+property:tulajdon
