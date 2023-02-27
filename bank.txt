@@ -1,3 +1,45 @@
+bunk beds:emeletes ágyak
+swivel chair:forgószék, irodai szék
+roller blind:redőny, roló
+windowsill:ablakpárkány
+stool:sámli
+glass-fronted bookcase:vitrin, üvegfalú könyves szekrény
+Venetian blinds:reluxák, árnyékolók
+chest of drawers:komód, fiókos szekrény
+knick-knacks:csecsebecsék, apróságok
+rocking chair:hintaszék
+converted loft:tetőtéri lakás
+do it up:felújítás
+slanted ceiling:ferde mennyezet
+holiday home/cottage:nyaraló
+bungalow:emelet nélküli családiház
+studio flat:egyszobás lakás, garzon
+display cabinet:vitrin
+upholstered chair:párnás szék
+grandfather clock:álló óra
+cluttered:zsúfolt
+crammed:tömött
+quaint:különös, eredeti
+ornaments:díszek, díszítés
+sparsely furnished:ritkán bútorozott
+spacious:tágas 
+overwhelming:túlzó
+strolled:kószál
+mantelpiece:kandallópárkány
+wipe:letöröl
+speck:porszem
+privet:fagyal
+patio furniture:terasz bútorok
+delightful:elragadó
+conservatory:melegház
+nosy neighbours:kiváncsiskodó szomszédok
+gravel:sóder, murva
+flap:csapkodás
+swung:lendült
+glistened:csillogott
+flinch:meghökken
+smirk:önelégült mosoly
+downtown:belváros
 estate:ingatlan
 suburb:kerület
 outskirts:kulváros
@@ -13,3 +55,4 @@ tenant:berlő
 landlord:főbérlő
 evict:kilakoltatni
 property:tulajdon
+let out:kiadni
