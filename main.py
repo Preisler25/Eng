@@ -11,7 +11,7 @@ def importFromFile():
     f.close
 
     for i in lines:
-        temp_list.append(Word(i.split(":"), 3))
+        temp_list.append(Word(i.split(":"), 2))
 
     return temp_list
 def printList(list, leng):
