@@ -1,4 +1,6 @@
 import random
+
+
 class Word():
     def __init__(self, txt, rare):
         self.eng = txt[0]
@@ -61,5 +63,7 @@ def askQ(list, leng):
 def main():
     main_list = importFromFile()
     askQ(main_list, "hun")
+
+
 
 main()

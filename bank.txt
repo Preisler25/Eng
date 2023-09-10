@@ -1,30 +1,30 @@
-unbearably:elviselhetetlenül
-fairness:tisztesség, igazságos
-tactful:taktikus, tapintatos
-bewildered:zavarodott
-devastated:feldúlt 
-petrified:dermedt
-thrilled:izgatott 
-furious:dühös, őrjöngő
-exhausted:kimerült 
-elated:feldobott, felvidult
-equivalent:egyenértékű 
-frightened:ijedt, rémült
-quotation:idézet
-blush:elpirul
-be ashamed of:szégyelni 
-frown:homlokrácolni
-tremble:remeg,reszket
-shrug sy's shoulder:megvonja a vállát
-stutter:dadog
-yell:kiabál
-conceited:beképzelt, öntelt
-conscientious: lelkiismeretes
-gullible:hiszékeny
-vain:hiu
-self-conscious:öntudatos
-self-centred:egoista
-unscrupulous:lelkiismeretlen,gátlástalan
-impartial:pártatlan
-absent-minded:feledékeny, szétszórt
-narrow-minded:szűklátókörű
+Barrister:ügyvéd
+Plumber:vízvezeték szerelő
+Priest:pap
+Stockbroker:tőzsde ügynök
+Counsellor:tanácsadó
+Undertaker:temetkezési vállalkozó
+Beautician:kozmetikus
+Dustmen:kukás
+Civil servant:köztisztviselő
+Museum curator:múzeumi kurátor
+Refuse collector:kukás ember
+Insurance agent:biztosítási ügynök
+Fitness coach:fitnesz edző
+Construction worker:épitkezési munkás
+Fashion designer:divattervező
+Interior designer:lakberendező
+Games designer:játék tervező
+Software designer:szoftver tervező
+Web/webpage designer:weblap tervező
+Innocence:ártatlanság
+Established:megalapozott
+Client:ügyfél, kliens
+Dripping:csöpögő
+Brethren:felebarát
+Share:részvény
+Revitalising:revitalizáló
+Rotten:rohadt
+Opt for:választani
+Cremation:hamvasztás
+Urn:urna
