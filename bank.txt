@@ -6,8 +6,8 @@ IT department:IT
 Finance:könyvelő
 Manufacturing:Gyártó
 Sales:Eladás
-Securuty and Safety:Biztonságért felelős
-Law anf Insurance:Jogi osztály
+Security and Safety:Biztonságért felelős
+Law and Insurance:Jogi osztály
 Logistics:Logikázás
 Research and Development:Fejlesztés
 Public Relations:Média megjelenés
