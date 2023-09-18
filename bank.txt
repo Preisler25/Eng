@@ -1,18 +1,13 @@
-Human Resources:HR
-Project Management:Projek vezető
-Customer Support:CS
-Marketing:Marketing
-IT department:IT
-Finance:könyvelő
-Manufacturing:Gyártó
-Sales:Eladás
-Security and Safety:Biztonságért felelős
-Law and Insurance:Jogi osztály
-Logistics:Logikázás
-Research and Development:Fejlesztés
-Public Relations:Média megjelenés
-Tips:jaht
-Raise:felnevelni
-Rise:emelés
-Pension:nyugdij
-Firm:cég
+to deadline:határidőre
+odd jobs:alkalmi munka
+courier service:futár szolgálat
+freelance:szabaduszó
+entreprenuer:vállalkozó
+maternity:Szülő szabadság (anya)
+paternity:Szülő szabadság
+fringe benefits or perks:béren kivüli juttatások
+dealing with:??foglalkozni
+under pressure:nyomás alatt
+for a publising house:egy kiadó számára
+prospect of promotion:Előléptetés előnyei
+job satisfaction:elégedet a munkájával
