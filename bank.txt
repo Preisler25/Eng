@@ -1,5 +1,7 @@
+offspring:utod
 nephew:unokaöccs
 niece:unkahug
+spouse:házas társ
 fiance:völi jegyes
 fiancée:menya jegyes
 wife to be:menya(to be)
@@ -16,10 +18,22 @@ bridesmaid:koszoruslany
 best man:tanu
 groom:volegeny
 wedding band:jegygygygyggyuru
+veil:fátyol
 newlyweds:friss hazasok
+cot:kiságy
+expectant mother:várandos
+nappy:pelenka
+baptism:keresztelő
+mourning:gász
+hearse:halott kocsi
+labour:anyu végzi a szülést
+maternity clothes:kismama ruhák
+maternity ward:szülő szoba
+coffin:koporsó
+urn:urna
+midwife:szülésznő
 cohabiting couple:egyuttelo nem hazas par/elettars
 nuclear family:szukcsalad
 extended family:nagycsalad
 adoptive parents:neveloszulok(apa elment tejért)
 foster parents:neveloszulok(börtönbe van apa)
-registrar:anyaköny vezető
