@@ -1,13 +1,25 @@
-to deadline:határidőre
-odd jobs:alkalmi munka
-courier service:futár szolgálat
-freelance:szabaduszó
-entreprenuer:vállalkozó
-maternity:Szülő szabadság (anya)
-paternity:Szülő szabadság
-fringe benefits or perks:béren kivüli juttatások
-dealing with:??foglalkozni
-under pressure:nyomás alatt
-for a publising house:egy kiadó számára
-prospect of promotion:Előléptetés előnyei
-job satisfaction:elégedet a munkájával
+nephew:unokaöccs
+niece:unkahug
+fiance:völi jegyes
+fiancée:menya jegyes
+wife to be:menya(to be)
+husband to be:völi(to be)
+mother in law:anyos
+father in law:apos
+brother in law:sogor
+sister in law:sogornő
+baptism:keresztelo
+civil wedding:civil eskuvo
+registrar:anyakonyvezo fasz
+reception:lagzi
+bridesmaid:koszoruslany
+best man:tanu
+groom:volegeny
+wedding band:jegygygygyggyuru
+newlyweds:friss hazasok
+cohabiting couple:egyuttelo nem hazas par/elettars
+nuclear family:szukcsalad
+extended family:nagycsalad
+adoptive parents:neveloszulok(apa elment tejért)
+foster parents:neveloszulok(börtönbe van apa)
+registrar:anyaköny vezető
