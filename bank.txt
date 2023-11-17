@@ -6,19 +6,8 @@ will:végrendelet
 mate:valamiben partner (roommate, soulmate, teammate)
 buddy:informális barát/haver
 acquaintance:Csak ismerős (de nem barát)
-companion - tá:valamiben (általában utazásban, travel companion)
-housewarming party:Házavató party
-First Communion:Elsőáldozás (amikor először vesznek részt a misén)
-stag night/party:legénybúcsú (bika party)
-life insurance:életbiztosítás
-breadwinner:kenyérszerző (a legtöbb pénzt kereső a családban)
-child maintenance:gyermektartásdíj (a gyermek érdekében)
-alimony:tartásdíj (a házastárs érdekében)
-will:végrendelet
-mate:valamiben partner (roommate, soulmate, teammate)
-buddy:informális barát/haver
-acquaintance:Csak ismerős (de nem barát)
 companion:társ valamiben (általában utazásban, travel companion)
 housewarming party:Házavató party
 First Communion:Elsőáldozás (amikor először vesznek részt a misén)
 stag night/party:legénybúcsú (bika party)
+hen night/party:leánybúcsú (tojó party)
