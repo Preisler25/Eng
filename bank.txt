@@ -1,39 +1,24 @@
-offspring:utod
-nephew:unokaöccs
-niece:unkahug
-spouse:házas társ
-fiance:völi jegyes
-fiancée:menya jegyes
-wife to be:menya(to be)
-husband to be:völi(to be)
-mother in law:anyos
-father in law:apos
-brother in law:sogor
-sister in law:sogornő
-baptism:keresztelo
-civil wedding:civil eskuvo
-registrar:anyakonyvezo fasz
-reception:lagzi
-bridesmaid:koszoruslany
-best man:tanu
-groom:volegeny
-wedding band:jegygygygyggyuru
-veil:fátyol
-newlyweds:friss hazasok
-cot:kiságy
-expectant mother:várandos
-nappy:pelenka
-baptism:keresztelő
-mourning:gász
-hearse:halott kocsi
-labour:anyu végzi a szülést
-maternity clothes:kismama ruhák
-maternity ward:szülő szoba
-coffin:koporsó
-urn:urna
-midwife:szülésznő
-cohabiting couple:egyuttelo nem hazas par/elettars
-nuclear family:szukcsalad
-extended family:nagycsalad
-adoptive parents:neveloszulok(apa elment tejért)
-foster parents:neveloszulok(börtönbe van apa)
+life insurance:életbiztosítás
+breadwinner:kenyérszerző (a legtöbb pénzt kereső a családban)
+child maintenance:gyermektartásdíj (a gyermek érdekében)
+alimony:tartásdíj (a házastárs érdekében)
+will:végrendelet
+mate:valamiben partner (roommate, soulmate, teammate)
+buddy:informális barát/haver
+acquaintance:Csak ismerős (de nem barát)
+companion - tá:valamiben (általában utazásban, travel companion)
+housewarming party:Házavató party
+First Communion:Elsőáldozás (amikor először vesznek részt a misén)
+stag night/party:legénybúcsú (bika party)
+life insurance:életbiztosítás
+breadwinner:kenyérszerző (a legtöbb pénzt kereső a családban)
+child maintenance:gyermektartásdíj (a gyermek érdekében)
+alimony:tartásdíj (a házastárs érdekében)
+will:végrendelet
+mate:valamiben partner (roommate, soulmate, teammate)
+buddy:informális barát/haver
+acquaintance:Csak ismerős (de nem barát)
+companion:társ valamiben (általában utazásban, travel companion)
+housewarming party:Házavató party
+First Communion:Elsőáldozás (amikor először vesznek részt a misén)
+stag night/party:legénybúcsú (bika party)
