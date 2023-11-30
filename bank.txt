@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 eccentric:különc
 frenetic:őrjöngő
 immensely:mérhetetlenül
@@ -12,3 +13,18 @@ scarcely:alig
 idle:tétlen
 tug:vontató
 shirttail:ingalja
+=======
+life insurance:életbiztosítás
+breadwinner:kenyérszerző (a legtöbb pénzt kereső a családban)
+child maintenance:gyermektartásdíj (a gyermek érdekében)
+alimony:tartásdíj (a házastárs érdekében)
+will:végrendelet
+mate:valamiben partner (roommate, soulmate, teammate)
+buddy:informális barát/haver
+acquaintance:Csak ismerős (de nem barát)
+companion:társ valamiben (általában utazásban, travel companion)
+housewarming party:Házavató party
+First Communion:Elsőáldozás (amikor először vesznek részt a misén)
+stag night/party:legénybúcsú (bika party)
+hen night/party:leánybúcsú (tojó party)
+>>>>>>> 16628b93a9a3d2f984e8a9fdccf27a4616e07174
