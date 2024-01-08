@@ -1,14 +1,12 @@
-eccentric:különc
-frenetic:őrjöngő
-immensely:mérhetetlenül
-futility:haszontalanság
-puny:apró
-duality:kettősség
-compel:kényszerít
-chuck out:kidobni ch
-discard:kidobni d
-inevitably:elkerülhetetlenül
-scarcely:alig
-idle:tétlen
-tug:vontató
-shirttail:ingalja
+fishmonger’s:halboltgeci
+off-license:alkoholos bolt
+deli/delicatesse:delikatesz(ilyen orszagra jellemzo alapanyagos bolt) 
+stationer’s:papir iroszer bolt
+till:kassza
+wholesale:nagykerar
+bargain:jo deal
+retail price:bolti ar
+rip-off:lehuzas
+astronomical:csillagaszati arak
+pay through the nose:borsos arat fizetni
+exorbitant:foldonkivuli arak
