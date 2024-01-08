@@ -1,7 +1,7 @@
-fishmonger’s:halboltgeci
+fishmonger's:halboltgeci
 off-license:alkoholos bolt
 deli/delicatesse:delikatesz(ilyen orszagra jellemzo alapanyagos bolt) 
-stationer’s:papir iroszer bolt
+stationer's:papir iroszer bolt
 till:kassza
 wholesale:nagykerar
 bargain:jo deal
