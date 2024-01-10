@@ -14,6 +14,7 @@ def importFromFile():
     for i in lines:
         temp_list.append(Word(i.split(":"), 3)) #3 mas szorzó
 
+        
     return temp_list
 def printList(list, leng):
     if leng == "hun":
