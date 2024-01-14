@@ -1,12 +1,16 @@
-fishmonger's:halboltgeci
-off-license:alkoholos bolt
-deli/delicatesse:delikatesz(ilyen orszagra jellemzo alapanyagos bolt) 
-stationer's:papir iroszer bolt
-till:kassza
-wholesale:nagykerar
-bargain:jo deal
-retail price:bolti ar
-rip-off:lehuzas
-astronomical:csillagaszati arak
-pay through the nose:borsos arat fizetni
-exorbitant:foldonkivuli arak
+compressed:tömörített, sűrített
+stacks:halmok 
+ranks:sorok
+jumble:garázs vásár
+resembled:ábrázol, hasonlít
+bin-liners:szemeteszsákok
+dim:buta(a szöveg környezetben, de lehet homályos is)
+mesmerised:megbabonázott 
+gaze:tekintet
+tentatively:próbaképpen, próbaszerűen
+drifted:elterelődött(a figyelme)
+inanimate:élettelen
+extracted:kivett
+wailed:jajgatott 
+restraint:önuralom, korlátozás
+take up:felvenni(szokást)
