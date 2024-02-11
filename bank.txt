@@ -1,14 +1,12 @@
-eccentric:különc
-frenetic:őrjöngő
-immensely:mérhetetlenül
-futility:haszontalanság
-puny:apró
-duality:kettősség
-compel:kényszerít
-chuck out:kidobni ch
-discard:kidobni d
-inevitably:elkerülhetetlenül
-scarcely:alig
-idle:tétlen
-tug:vontató
-shirttail:ingalja
+see off:say goodbye
+set off:leave
+pulling out:get out
+headed for:aim for
+held up:delayed
+pull over:stop
+running out (of time):give out
+pulled up:arrive
+(already) checked in:book in
+(plane) take off:depart
+(car) broke down:stop working
+ended up:wind up
