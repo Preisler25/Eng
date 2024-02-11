@@ -1,12 +1,12 @@
-see off:say goodbye
-set off:leave
-pulling out:get out
-headed for:aim for
-held up:delayed
-pull over:stop
-running out (of time):give out
-pulled up:arrive
-(already) checked in:book in
-(plane) take off:depart
-(car) broke down:stop working
-ended up:wind up
+say goodbye:see off
+leave:set off
+get out:pulling out
+aim for:headed for
+delayed:held up
+stop:pull over
+give out:running out (of time)
+arrive:pulled up
+book in:(already) checked in
+depart:(plane) take off
+stop working:(car) broke down
+wind up:ended up
