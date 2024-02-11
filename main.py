@@ -10,11 +10,11 @@ def importFromFile():
     temp_list = []
     f = open('bank.txt', 'r', encoding='utf8')
     lines = f.read().split("\n")
-    f.close
-
+    f.close()
     for i in lines:
         temp_list.append(Word(i.split(":"), 3)) #3 mas szorzó
 
+        
     return temp_list
 def printList(list, leng):
     if leng == "hun":
