@@ -9,4 +9,4 @@ arrive:pulled up
 book in:(already) checked in
 depart:(plane) take off
 stop working:(car) broke down
-wind up:ended up
+wind up:ended up 
