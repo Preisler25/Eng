@@ -1,16 +1,4 @@
-compressed:tömörített, sűrített
-stacks:halmok 
-ranks:sorok
-jumble:garázs vásár
-resembled:ábrázol, hasonlít
-bin-liners:szemeteszsákok
-dim:buta(a szöveg környezetben, de lehet homályos is)
-mesmerised:megbabonázott 
-gaze:tekintet
-tentatively:próbaképpen, próbaszerűen
-drifted:elterelődött(a figyelme)
-inanimate:élettelen
-extracted:kivett
-wailed:jajgatott 
-restraint:önuralom, korlátozás
-take up:felvenni(szokást)
+gross:large
+klein:small
+schnell:fast
+langsam:slow
