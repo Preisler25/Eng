@@ -19,10 +19,10 @@ langsam:slow
 
 Das Buch:book
 Das Meer:sea
-Die Firma:company
-Die Kirche:church
 Der Bahnhof:train station
 Der Flughafen:airport
 Der Fluss:river
 Der Mensch:human
 Der Freund:friend
+Die Firma:company
+Die Kirche:church

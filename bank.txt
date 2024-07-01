@@ -1,4 +1,25 @@
+tanzen:dance
+gehen:go
+suchen:search
+antworten:answer
+fragen:question
+schlafen:sleep
+laufen:run
+kochen:cook 
+lesen:read
+spielen:play
+schwimmen:swim
+reisen:travel
 gross:large
 klein:small
 schnell:fast
 langsam:slow
+Das Buch:book
+Das Meer:sea
+Der Bahnhof:train station
+Der Flughafen:airport
+Der Fluss:river
+Der Mensch:human
+Der Freund:friend
+Die Firma:company
+Die Kirche:church
